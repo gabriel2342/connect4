@@ -22,3 +22,10 @@ Player moves
     else
       Next player turn?
   
+
+
+Player one choose column
+mnove is made
+check if winner? 
+  if winner
+    Ask if they would like to play again
